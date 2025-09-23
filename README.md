@@ -25,7 +25,7 @@ This portfolio highlights my **skills, projects, leadership roles, and achieveme
 
 
 ## 🚀 Live Demo  
-👉 [View Portfolio](https://muditgupta07.github.io/Portfolio-Microsoft/)  
+👉 [View Portfolio](https://muditgupta07.github.io/Microsoft-Portfolio/)
 
 
 ---
